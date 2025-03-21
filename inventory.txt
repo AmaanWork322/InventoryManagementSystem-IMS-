@@ -1,0 +1,2 @@
+11|mouse|20|2.0|mouses bruh
+1|monitor|20|80.0|electronic
